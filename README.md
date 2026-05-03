@@ -14,7 +14,7 @@ MENTOR: Neela Santhosh Kumar
 
 # Decision Tree Implementation
 
-## Description
+# Description
 
 This project demonstrates the implementation of a Decision Tree Classifier using Python. The main objective is to build a machine learning model that can classify data and make predictions based on input features. Decision Trees are widely used supervised learning algorithms known for their simplicity and interpretability.
 
@@ -22,7 +22,7 @@ In this project, a dataset is used to train the model by identifying patterns an
 
 This project provides a clear understanding of how classification algorithms work in real-world scenarios and is useful for beginners learning machine learning concepts.
 
-## Tools and Technologies Used
+# Tools and Technologies Used
 
 * **Python** – Used for implementing the model
 * **NumPy** – For numerical operations
@@ -31,6 +31,9 @@ This project provides a clear understanding of how classification algorithms wor
 * **Scikit-learn** – For implementing the Decision Tree Classifier
 * **Jupyter Notebook / VS Code** – Development environment
 
-## Conclusion
+# Conclusion
 
 The project successfully demonstrates how a Decision Tree algorithm can be used for classification tasks. It helps in understanding model building, evaluation, and the practical application of machine learning techniques.
+
+# OUTPUT
+<img width="819" height="546" alt="Image" src="https://github.com/user-attachments/assets/c4ef1e28-89b7-4d66-be67-1b00b3d22e72" />
